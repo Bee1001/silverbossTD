@@ -19,3 +19,16 @@
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 <br/>
+  
+  <h1>Projects</h1>
+  
+  [![WMF2PNG](https://github-readme-stats.vercel.app/api/pin/?username=silverbossTD&repo=WMF2PNG)](https://github.com/silverbossTD/WMF2PNG)
+  <br/>
+  <br/>
+  [![PasswordManager](https://github-readme-stats.vercel.app/api/pin/?username=silverbossTD&repo=PasswordManager)](https://github.com/silverbossTD/PasswordManager)
+  
+  <br/>
+  
+  <h1>Stats</h1>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silverbossTD&layout=compact)](https://github.com/silverbossTD/github-readme-stats)
